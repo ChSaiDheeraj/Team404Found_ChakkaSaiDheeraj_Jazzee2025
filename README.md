@@ -57,17 +57,17 @@ Built during **T$O 2025** by Team404Found in collaboration with Jazzee Technolog
 
 <div align="center">
   <h3>MedAI - Patient Dashboard</h3>
-  <img src="https://github.com/ChSaiDheeraj/Team404Found_ChakkaSaiDheeraj_Jazzee2025/blob/main/image.png?raw=true" width="800" alt="MedAI Dashboard Interface">
+  <img src="[https://github.com/ChSaiDheeraj/Team404Found_ChakkaSaiDheeraj_Jazzee2025/blob/main/image.png?raw=true](https://github.com/ChSaiDheeraj/Team404Found_ChakkaSaiDheeraj_Jazzee2025/blob/main/patientdashboard.png)" width="800" alt="MedAI Dashboard Interface">
   
   <table>
     <tr>
       <td align="center">
         <strong>AI Doctor Chat</strong><br>
-        <img src="https://github.com/ChSaiDheeraj/Team404Found_ChakkaSaiDheeraj_Jazzee2025/blob/main/image.png?raw=true" width="300" alt="AI Doctor Chat">
+        <img src="[https://github.com/ChSaiDheeraj/Team404Found_ChakkaSaiDheeraj_Jazzee2025/blob/main/image.png?raw=true](https://github.com/ChSaiDheeraj/Team404Found_ChakkaSaiDheeraj_Jazzee2025/blob/main/chat.png)" width="300" alt="AI Doctor Chat">
       </td>
       <td align="center">
         <strong>Appointment Booking</strong><br>
-        <img src="https://github.com/ChSaiDheeraj/Team404Found_ChakkaSaiDheeraj_Jazzee2025/blob/main/image.png?raw=true" width="300" alt="Appointment System">
+        <img src="[https://github.com/ChSaiDheeraj/Team404Found_ChakkaSaiDheeraj_Jazzee2025/blob/main/image.png?raw=true](https://github.com/ChSaiDheeraj/Team404Found_ChakkaSaiDheeraj_Jazzee2025/blob/main/appointment.png)" width="300" alt="Appointment System">
       </td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ Built during **T$O 2025** by Team404Found in collaboration with Jazzee Technolog
       </td>
       <td align="center">
         <strong>Emergency Services</strong><br>
-        <img src="https://github.com/ChSaiDheeraj/Team404Found_ChakkaSaiDheeraj_Jazzee2025/blob/main/image.png?raw=true" width="300" alt="Emergency Features">
+        <img src="[https://github.com/ChSaiDheeraj/Team404Found_ChakkaSaiDheeraj_Jazzee2025/blob/main/image.png?raw=true](https://github.com/ChSaiDheeraj/Team404Found_ChakkaSaiDheeraj_Jazzee2025/blob/main/emergency.png)" width="300" alt="Emergency Features">
       </td>
     </tr>
   </table>
